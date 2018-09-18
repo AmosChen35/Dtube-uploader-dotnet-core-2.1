@@ -1,0 +1,17 @@
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Web.deps.json
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Web.runtimeconfig.json
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Web.runtimeconfig.dev.json
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Web.dll
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Web.pdb
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Core.dll
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Release\netcoreapp2.1\Uploader.Core.pdb
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.csprojAssemblyReference.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.csproj.CoreCompileInputs.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.RazorAssemblyInfo.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.RazorAssemblyInfo.cs
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.AssemblyInfoInputs.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.AssemblyInfo.cs
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.RazorTargetAssemblyInfo.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.csproj.CopyComplete
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.dll
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Release\netcoreapp2.1\Uploader.Web.pdb

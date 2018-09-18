@@ -1,0 +1,4 @@
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Debug\netcoreapp2.0\Uploader.Web.deps.json
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Debug\netcoreapp2.0\Uploader.Web.runtimeconfig.json
+D:\ShareFolder\ipfs-uploader\Uploader.Web\bin\Debug\netcoreapp2.0\Uploader.Web.runtimeconfig.dev.json
+D:\ShareFolder\ipfs-uploader\Uploader.Web\obj\Debug\netcoreapp2.0\Uploader.Web.AssemblyInfo.cs

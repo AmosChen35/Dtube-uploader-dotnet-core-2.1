@@ -1,0 +1,3 @@
+D:\ShareFolder\ipfs-uploader\Uploader.Core\bin\Debug\netcoreapp2.0\Uploader.Core.deps.json
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Debug\netcoreapp2.0\Uploader.Core.csprojResolveAssemblyReference.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Debug\netcoreapp2.0\Uploader.Core.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+D:\ShareFolder\ipfs-uploader\Uploader.Core\bin\Release\netcoreapp2.1\Uploader.Core.deps.json
+D:\ShareFolder\ipfs-uploader\Uploader.Core\bin\Release\netcoreapp2.1\Uploader.Core.runtimeconfig.json
+D:\ShareFolder\ipfs-uploader\Uploader.Core\bin\Release\netcoreapp2.1\Uploader.Core.runtimeconfig.dev.json
+D:\ShareFolder\ipfs-uploader\Uploader.Core\bin\Release\netcoreapp2.1\Uploader.Core.dll
+D:\ShareFolder\ipfs-uploader\Uploader.Core\bin\Release\netcoreapp2.1\Uploader.Core.pdb
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Release\netcoreapp2.1\Uploader.Core.csprojAssemblyReference.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Release\netcoreapp2.1\Uploader.Core.csproj.CoreCompileInputs.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Release\netcoreapp2.1\Uploader.Core.AssemblyInfoInputs.cache
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Release\netcoreapp2.1\Uploader.Core.AssemblyInfo.cs
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Release\netcoreapp2.1\Uploader.Core.dll
+D:\ShareFolder\ipfs-uploader\Uploader.Core\obj\Release\netcoreapp2.1\Uploader.Core.pdb

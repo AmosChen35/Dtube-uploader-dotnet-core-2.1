@@ -1,0 +1,35 @@
+2018-09-17 18:20:29,778 [19] FATAL - [Exception] Exception Download File : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\home\dr\testfolder\0qvlq5ll.52w'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Uploader.Web.Controllers.UploaderController.GetFileToTemp() in D:\ShareFolder\ipfs-uploader\Uploader.Web\Controllers\UploaderController.cs:line 96
+2018-09-17 18:20:33,796 [19] FATAL - [Exception] Exception Download File : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\home\dr\testfolder\1l5fav2m.2gy'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Uploader.Web.Controllers.UploaderController.GetFileToTemp() in D:\ShareFolder\ipfs-uploader\Uploader.Web\Controllers\UploaderController.cs:line 96
+2018-09-17 18:20:34,363 [26] FATAL - [Exception] Exception Download File : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\home\dr\testfolder\5x1sktf2.fio'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Uploader.Web.Controllers.UploaderController.GetFileToTemp() in D:\ShareFolder\ipfs-uploader\Uploader.Web\Controllers\UploaderController.cs:line 96
+2018-09-17 18:20:35,059 [25] FATAL - [Exception] Exception Download File : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\home\dr\testfolder\id21mybh.o14'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Uploader.Web.Controllers.UploaderController.GetFileToTemp() in D:\ShareFolder\ipfs-uploader\Uploader.Web\Controllers\UploaderController.cs:line 96
+2018-09-18 16:39:44,588 [20] FATAL - [Exception] Exception Download File : System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\home\dr\testfolder\0ydh1luy.tzm'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Uploader.Web.Controllers.UploaderController.GetFileToTemp() in D:\ShareFolder\ipfs-uploader\Uploader.Web\Controllers\UploaderController.cs:line 96
